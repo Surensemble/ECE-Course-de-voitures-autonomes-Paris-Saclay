@@ -198,7 +198,7 @@ try :
                       set_vitesse_m_s(0.08)      
                 
                 set_direction_degre(angle_degre)# application de l'angle choisi sur le vehicule 
-                vitesse_m_s = 0.5               # choix d'une vitesse de constante. elle peut être modifiée
+                vitesse_m_s = 0.5               # choix d'une vitesse constante. elle peut être modifiée
                 set_vitesse_m_s(vitesse_m_s)    # application de la vitesse choisi sur le vehicule
                 
 
