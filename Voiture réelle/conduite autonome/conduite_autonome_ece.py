@@ -126,9 +126,7 @@ try :
         for i in range(len(scan)) :
             angle = min(359,max(0,359-int(scan[i][1]))) #scan[i][1] : angle 
             tableau_lidar_mm[angle]=scan[i][2]  #scan[i][2] : distance    
-        #############################################
-        ## Code de conduite (issu du simulateur ou non)
-        #############################################
+        
                
     #mesure avec ultrason     (cause un bug)
         """write(0x51)
