@@ -7,4 +7,4 @@ dossier utile pour effectuer les simulations
 programmes pour la voiture réelle 
 doc utiles 
 
-pour plus d'outils avoir le d'information voir le github : https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay
+pour avoir plus d'outils  le d'information voir le github : https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay
