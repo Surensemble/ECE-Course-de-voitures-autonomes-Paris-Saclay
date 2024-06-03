@@ -1,6 +1,6 @@
 # ECE Course-de-voitures-autonomes-Paris-Saclay
 
-Ce dépôt regroupe les differents fichiers et programmes utilisés par l'ECE pour la course de voitures autonomes paris saclay 2024
+Ce dépôt regroupe les differents fichiers et programmes utilisés par l'ECE pour la course de voitures autonomes paris saclay 2024.
 
 Dans le sous repertoire "simulateur" se trouve le programme de controle de la voiture en simulation et un fichier zip contenant tous les fichier nécessaire pour effectuer les simulations de tests du programme de conduite autonome.
 
