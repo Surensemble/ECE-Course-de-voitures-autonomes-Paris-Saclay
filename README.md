@@ -1,10 +1,9 @@
 # ECE Course-de-voitures-autonomes-Paris-Saclay
 
-Ce depot regroupe les differents fichier et programmes utilisé pour la course de voiture autonomes paris saclay 2024
+Ce dépôt regroupe les differents fichiers et programmes utilisés par l'ECE pour la course de voitures autonomes paris saclay 2024
 
-rapport 
-dossier utile pour effectuer les simulations
-programmes pour la voiture réelle 
-doc utiles 
+Dans le sous repertoire "simulateur" se trouve le programme de controle de la voiture en simulation et un fichier zip contenant tous les fichier nécessaire pour effectuer les simulations de tests du programme de conduite autonome.
 
-pour avoir plus d'outils  le d'information voir le github : https://github.com/ajuton-ens/CourseVoituresAutonomesSaclay
+Le sous repertoire  "voiture réelle" contient tous les fichiers relatifs à la voiture ECE tels que le programme de conduite autonome, les schémas électoniques et plans mécanique. 
+
+Pour plus d'outils et d'informations il faut consulter le dépot github de la compétition : https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
