@@ -1,3 +1,5 @@
+Controller_jeaune.py est le programme qui permet d'effectuer la conduite autonome de la voiture ece en simulation. Ce code ne contient pas la fonctionnalité de marche arrière en cas de blocage du véhicule.
+
 ## Simulations avec Webots
 Pour effectuer les simulations il est nécessaire d'installer le logiciel de simulation Webots via le lien suivant: https://www.cyberbotics.com/
 
