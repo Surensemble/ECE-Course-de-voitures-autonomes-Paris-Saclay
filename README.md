@@ -6,4 +6,4 @@ Dans le sous repertoire "simulateur" se trouve le programme de controle de la vo
 
 Le sous repertoire  "voiture réelle" contient tous les fichiers relatifs à la voiture ECE tels que le programme de conduite autonome, les schémas électoniques et description mécanique. 
 
-Pour plus d'outils et d'informations il faut consulter le dépot github de la compétition : https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
+Pour plus d'outils et d'informations, il faut consulter le dépot github de la compétition : https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
