@@ -9,5 +9,5 @@ Le sous repertoire  "voiture réelle" contient tous les fichiers relatifs à la 
 Pour plus d'outils et d'informations, il faut consulter le dépot github de la compétition : https://ajuton-ens.github.io/CourseVoituresAutonomesSaclay/
 
 
-voiture réelle:
+
 https://github.com/user-attachments/assets/a42dd1a2-c28e-4696-bc93-7daf3ed04f1e
